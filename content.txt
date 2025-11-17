@@ -5,3 +5,20 @@
 --> Everything is pyhton is an object(data structure)
 4.  Advantage of oops
 ---> You can create your own data type
+
+
+
+5. End to End project(Chatbook class)
+
+--> function vs method
+--> magic method or dunder method
+--> self
+--> You can create attribute outside class as well
+
+--> Encapsulation
+-----> getter and setter
+-----> static method
+
+--> Inheritance
+
+
